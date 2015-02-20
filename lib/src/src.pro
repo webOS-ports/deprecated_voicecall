@@ -3,7 +3,7 @@ TARGET = voicecall
 
 QT = core dbus
 
-#DEFINES += WANT_TRACE
+DEFINES += WANT_TRACE
 
 HEADERS += \
     common.h \

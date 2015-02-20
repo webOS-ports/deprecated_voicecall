@@ -23,8 +23,11 @@
 
 #include <QHash>
 #include <QUuid>
+#include <QSettings>
 
+#if 0
 #include "audiocallpolicyproxy.h"
+#endif
 
 class VoiceCallManagerPrivate
 {
