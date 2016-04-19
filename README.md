@@ -1,3 +1,7 @@
+# No longer used
+
+We're using upstream repository https://git.merproject.org/mer-core/voicecall directly with a few patches. 
+
 # voicecall
 
 voicecall is a daemon (and QML plugin) for implementing dialer UIs.
